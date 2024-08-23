@@ -1,0 +1,15 @@
+/Users/chad/Desktop/chad/obj/Debug/net8.0/chad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chad/Desktop/chad/obj/Debug/net8.0/chad.AssemblyInfoInputs.cache
+/Users/chad/Desktop/chad/obj/Debug/net8.0/chad.AssemblyInfo.cs
+/Users/chad/Desktop/chad/obj/Debug/net8.0/chad.csproj.CoreCompileInputs.cache
+/Users/chad/Desktop/chad/obj/Debug/net8.0/chad.sourcelink.json
+/Users/chad/Desktop/chad/bin/Debug/net8.0/chad
+/Users/chad/Desktop/chad/bin/Debug/net8.0/chad.deps.json
+/Users/chad/Desktop/chad/bin/Debug/net8.0/chad.runtimeconfig.json
+/Users/chad/Desktop/chad/bin/Debug/net8.0/chad.dll
+/Users/chad/Desktop/chad/bin/Debug/net8.0/chad.pdb
+/Users/chad/Desktop/chad/obj/Debug/net8.0/chad.dll
+/Users/chad/Desktop/chad/obj/Debug/net8.0/refint/chad.dll
+/Users/chad/Desktop/chad/obj/Debug/net8.0/chad.pdb
+/Users/chad/Desktop/chad/obj/Debug/net8.0/chad.genruntimeconfig.cache
+/Users/chad/Desktop/chad/obj/Debug/net8.0/ref/chad.dll
